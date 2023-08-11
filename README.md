@@ -13,7 +13,7 @@ LABEL color=red
 
 ###Build Docker File
 sudo docker build -t ibrarimage . (. current directory)
-sudo docker run -it -d --name -p 80:80 ubuntu (p publish , 1st 80 host , 2nd 80 container)
+
 
 #Push image
 docker login (docker hub)
