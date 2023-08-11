@@ -19,6 +19,7 @@ sudo docker run -it -d --name -p 80:80 ubuntu (p publish , 1st 80 host , 2nd 80 
 docker login (docker hub)
 docker push dockerhubname/imagename
 
+#########Git commands
 git init
 git add README.md
 git commit -m "first commit"
